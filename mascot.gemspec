@@ -25,5 +25,7 @@ engine and the Mascot formats.}
   s.add_dependency "mascot-mgf", "= 0.2.0"
   s.add_dependency "mascot-dat", "= 0.2.0"
   s.add_dependency "mascot-dad", "= 0.2.0"
+  s.add_development_dependency "bundler", "~> 1.0"
+
 end
 
